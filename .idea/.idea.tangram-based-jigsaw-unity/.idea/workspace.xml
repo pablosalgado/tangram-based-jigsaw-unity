@@ -6,17 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7df1d414-4d0c-427d-af94-afa3f86e348d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tangram-based-jigsaw-unity.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tangram-based-jigsaw-unity/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tangram-based-jigsaw.sln" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +20,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///home/pablo/GitHub/pablosalgado/tangram-based-jigsaw-unity/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/pablo/GitHub/pablosalgado/tangram-based-jigsaw-unity/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///home/pablo/GitHub/pablosalgado/tangram-based-jigsaw-unity/ProjectSettings/TagManager.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/pablo/UnityProjects/tangram-based-jigsaw-unity/Assets/Scripts/DragAndDrop.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/pablo/UnityProjects/tangram-based-jigsaw-unity/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/pablo/UnityProjects/tangram-based-jigsaw-unity/Assets/Scenes/SampleScene.unity" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/DragAndDrop.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1hI84tyOfZHtp2QchDAdtf6CMa8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,6 +74,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599687059843</updated>
       <workItem from="1599687074125" duration="1293000" />
+      <workItem from="1600196116946" duration="30000" />
+      <workItem from="1600196160207" duration="794000" />
+      <workItem from="1600196978338" duration="547000" />
     </task>
     <servers />
   </component>
@@ -120,23 +123,37 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/pablo/UnityProjects/tangram-based-jigsaw-unity/Assets" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
                   <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
                 </map>
               </option>
             </State>
@@ -147,11 +164,27 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="180" width="1200" height="800" key="DiffContextDialog" timestamp="1600197525104">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="515" y="180" width="1200" height="800" key="DiffContextDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1600197525104" />
+    <state x="898" y="338" width="424" height="485" key="FileChooserDialogImpl" timestamp="1600197444151">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="898" y="338" width="424" height="485" key="FileChooserDialogImpl/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1600197444151" />
+    <state x="834" y="271" width="552" height="619" key="RollbackChangesDialog" timestamp="1600196436616">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="834" y="271" width="552" height="619" key="RollbackChangesDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1600196436616" />
   </component>
 </project>
